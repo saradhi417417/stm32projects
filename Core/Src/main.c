@@ -115,6 +115,7 @@ int subtract(int a, int b) {
 
 
 /*Pardha saradhi*/
+/*1. pardha saradhi*/
 int main(void)
 {
 
