@@ -115,8 +115,15 @@ int subtract(int a, int b) {
 
 
 /*Pardha saradhi*/
+/*1. pardha saradhi*/
 int main(void)
 {
+
+	/*3. Pardha saradhi*/
+	/*4, pardha saradhi*/
+	/*5. pardha saradhi*/
+	/*6.pardha saradhi*/
+
 
   /* USER CODE BEGIN 1 */
 
